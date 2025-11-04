@@ -66,11 +66,11 @@ Department of Computer Science | Faculty of Natural Sciences
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TKXDev&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FF6D5B&icon_color=FF6D5B&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TKXDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D5B&icon_color=FF6D5B&text_color=FFFFFF&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TKXDev&theme=radical&hide_border=false&background=0D1117&ring=FF6D5B&fire=FF6D5B&currStreakLabel=FF6D5B)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TKXDev&theme=radical&hide_border=true&background=0D1117&ring=FF6D5B&fire=FF6D5B&currStreakLabel=FF6D5B)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKXDev&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=FF6D5B&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKXDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D5B&text_color=FFFFFF&exclude_repo=github-readme-stats)
 
 </div>
 
