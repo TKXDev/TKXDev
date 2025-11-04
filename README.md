@@ -34,7 +34,7 @@ Department of Computer Science | Faculty of Natural Sciences
 
 ### Frontend Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTMwLjI3IDIzLTYuOTMtMTJhMS45OCAxLjk4IDAgMCAwLTEuNzMtMWExLjk2IDEuOTYgMCAwIDAtMS43MyAxbC0yLjI3IDMuOTNsLTMuODgtNi43MWExLjk5NiAxLjk5NiAwIDAgMC0zLjQ2IDBMMS43MyAyM2EyIDIgMCAwIDAgMS43MyAzaDguOTE1YTYgNiAwIDAgMCA1LjE5Ny0zLjAwMUwyMS42MSAxNmwzLjQ2IDZoLTIuMzFsLTIuMzEgNGg4LjA5YTIgMiAwIDAgMCAxLjczLTNtLTE3Ljg5Ni0xSDYuOTNMMTIgMTMuMjJsMy4zIDUuNzFsLTEuMTkzIDIuMDY5QTIgMiAwIDAgMSAxMi4zNzQgMjIiIGZpbGw9IiMwMGU2NzYiLz48L3N2Zz4=&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -47,14 +47,14 @@ Department of Computer Science | Faculty of Natural Sciences
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 
 ### Design & Creative Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-4D4D4D?style=for-the-badge)
+![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-4D4D4D?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Tools & Automation
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
