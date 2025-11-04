@@ -34,7 +34,7 @@ Department of Computer Science | Faculty of Natural Sciences
 
 ### Frontend Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBmaWxsPSIjMDBlNjc2IiBkPSJtMzAuMjcgMjNsLTYuOTMtMTJhMS45OCAxLjk4IDAgMCAwLTEuNzMtMWExLjk2IDEuOTYgMCAwIDAtMS43MyAxbC0yLjI3IDMuOTNsLTMuODgtNi43MWExLjk5NiAxLjk5NiAwIDAgMC0zLjQ2IDBMMS43MyAyM2EyIDIgMCAwIDAgMS43MyAzaDguOTE1YTYgNiAwIDAgMCA1LjE5Ny0zLjAwMUwyMS42MSAxNmwzLjQ2IDZoLTIuMzFsLTIuMzEgNGg4LjA5YTIgMiAwIDAgMCAxLjczLTNtLTE3Ljg5Ni0xSDYuOTNMMTIgMTMuMjJsMy4zIDUuNzFsLTEuMTkzIDIuMDY5QTIgMiAwIDAgMSAxMi4zNzQgMjIiLz48L3N2Zz4=" alt="Nuxt.js" height="28"/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
